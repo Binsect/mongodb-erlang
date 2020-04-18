@@ -7,3 +7,5 @@ logs/
 variables-ct*
 *.iml
 data
+_build
+*.lock
